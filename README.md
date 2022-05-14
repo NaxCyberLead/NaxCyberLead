@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NaxCyberLead
+- 👋 Hi, I’m @Nuh
 - 👀 I’m interested in Software Development and Cybersecurity
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything that would add value
